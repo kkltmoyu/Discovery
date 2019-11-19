@@ -6,3 +6,24 @@
 
 ## 方案1.x-chart
 github地址：https://github.com/yugasun/x-chart/tree/master  
+
+## 方案2.Viser
+https://viserjs.github.io/
+
+## 方案3.BizCharts
+https://bizcharts.net/products/bizCharts
+
+## 方案4.v-charts
+https://v-charts.js.org/#/
+
+## 方案5.TOAST UI 
+https://ui.toast.com/tui-chart/  
+
+## 方案6.CHARTIST
+http://gionkunz.github.io/chartist-js/
+
+## 附加
+### 可能有用库
+1. [vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable)
+2. 
+
