@@ -1,5 +1,5 @@
 # 可视化组件or库
-<b>本次调研目标：支持draggable，resizeable的轻量级可视化图表展示库，组件级或框架级，not系统级，尽量减少二次开发成本。</b>  
+<b>本次调研目标：支持draggable，resizeable的轻量级可视化图表展示库，组件级或框架级，not系统级。</b>  
 语言：js  
 兼容性要求：现代浏览器，不考虑IE  
 时间：2019.11.19
@@ -34,5 +34,5 @@ https://github.com/geekplux/markvis
 ## 附加
 ### 可能有用库
 1. [vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable)
-2. 
+2. [图形化编辑、业务监控的大屏可视化方案dataV与Sugar比较](https://blog.csdn.net/hwhsong/article/details/83097924)
 
