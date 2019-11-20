@@ -22,6 +22,15 @@ https://ui.toast.com/tui-chart/
 ## 方案6.CHARTIST
 http://gionkunz.github.io/chartist-js/
 
+## 方案7.vue-manager
+https://github.com/luosijie/vue-manager  
+
+## 方案8.zeu
+https://github.com/shzlw/zeu
+
+## 方案9.markvis
+https://github.com/geekplux/markvis
+
 ## 附加
 ### 可能有用库
 1. [vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable)
