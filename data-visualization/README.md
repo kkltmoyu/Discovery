@@ -1,5 +1,5 @@
-# 可视化组件or库
-<b>本次调研终极目标：最好支持draggable、resizeable的轻量级，可自行定制图表及页面布局的，纯前端开源可视化图表展示系统（组件级、框架级也可），图表类型可切换。</b>  
+# 可视化组件or库调研
+<b>本次调研终极目标：最好支持draggable、resizeable的轻量级，可自行定制图表及页面布局的，纯前端开源可视化（图表展示）系统（组件级、框架级也可），图表类型可切换。</b>  
 语言：js  
 兼容性要求：现代浏览器，不必考虑IE  
 时间：2019.11.19
@@ -8,10 +8,10 @@
 以下系统均为纯前端，系统提供demo，demo内的数据均为mock
 ### [x-chart](https://github.com/yugasun/x-chart/tree/master)
 小型系统，无法单独暴露其中组件，只能将整个项目作为脚手架，基于其上构建自己的功能。  
-目前包含柱状图，折线图，饼图（无法相互切换）
+目前包含柱状图，折线图，饼图（无法相互切换），本项目是唯一一个支持布局draggable、resizeable的系统。
 
 ### [vue-manager](https://github.com/luosijie/vue-manager)
-技术栈：Vue2.0 + iView + ECharts，概况同上，图表包含饼图，柱状图，折线图，雷达图
+技术栈：Vue2.0 + iView + ECharts，脚手架项目，图表包含饼图，柱状图，折线图，雷达图
 
 ### [Vue-Admin](https://github.com/lanux/Vue-Admin)
 管理系统，脚手架项目
@@ -47,7 +47,7 @@
 2. 区块资源中的图是基于BizCharts进行开发,而不是echarts。  
 3. 将复杂的工程化和项目管理等封装为可视化的ui界面，凡是封装必有性能损耗，以及奇葩bug。
 
-
+本体系更类似一种前端开发的整个流程的解决方案，而不是用于图表可视化的单个系统。
 <!--   不靠谱
 ### [zeu](https://github.com/shzlw/zeu)
 ### [markvis](https://github.com/geekplux/markvis)
